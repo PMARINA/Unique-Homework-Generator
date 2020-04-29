@@ -1,3 +1,5 @@
+#by hydrodog, MIT License does not apply
+#ARMv6 ASSEMBLY
 #random load/and/shift problem
 	.global $fn
 $fn:
