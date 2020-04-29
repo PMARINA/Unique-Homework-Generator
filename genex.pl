@@ -1,3 +1,4 @@
+#by hydrodog, MIT License does not apply
 use strict;
 use warnings FATAL => 'all';
 my $funcnum = 1;
